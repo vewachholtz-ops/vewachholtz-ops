@@ -3,3 +3,6 @@ foto*.jpeg
 foto*.png
 __pycache__/
 _to_delete/
+
+# Apuntes de trabajo y material retirado: se conservan localmente.
+/AUDITORIA.md
