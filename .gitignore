@@ -1,0 +1,5 @@
+foto*.jpg
+foto*.jpeg
+foto*.png
+__pycache__/
+_to_delete/
